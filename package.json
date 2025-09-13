@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/veinte-mil-leguas",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a veinte-mil-leguas",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/veinte-mil-leguas.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.rincondelviaje.com/veinte-mil-leguas-de-viaje-submarino/"
+    },
+    "homepage": "https://www.rincondelviaje.com/veinte-mil-leguas-de-viaje-submarino/"
+}
